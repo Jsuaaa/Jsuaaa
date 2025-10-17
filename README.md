@@ -27,6 +27,9 @@ Currently exploring Python, GSAP, and MCP to enhance my frontend and backend ski
 <p align="center"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="java" width="40" height="40"/> 
   </a> 
   <a href="https://react.dev/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
@@ -48,6 +51,18 @@ Currently exploring Python, GSAP, and MCP to enhance my frontend and backend ski
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon~old.svg" alt="css" width="40" height="40"/> 
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
+  </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="linux" width="40" height="40"/> 
   </a> 
 </p>
 
