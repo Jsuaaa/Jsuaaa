@@ -21,12 +21,10 @@ Currently exploring Python, GSAP, and MCP to enhance my frontend and backend ski
 </p>
 
 <br/>
-<br/>
-<br/>
 
 ## Use To Code
 
-<p align="left"> 
+<p align="center"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a> 
