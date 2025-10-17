@@ -14,11 +14,9 @@
 <p>
  <img align="right" width="350" src="https://raw.githubusercontent.com/02loveslollipop/02loveslollipop/main/assets/programmer.gif" alt="Coding gif" />
   
- 🎓 &emsp; Estudiante de Ingeniería de Sistemas, 20 años<br/><br/>
- 💻 &emsp; Desarrollador Fullstack con enfoque en JavaScript y Java<br/><br/>
- 🎨 &emsp; Apasionado por el diseño y desarrollo de aplicaciones web modernas<br/><br/>
- 🚀 &emsp; Actualmente aprendiendo Python, GSAP y MCP<br/><br/>
- 📍 &emsp; Siempre explorando nuevas tecnologías para crear experiencias digitales innovadoras<br/><br/>
+I’m a 20-year-old Systems Engineering student and Fullstack Developer experienced in JavaScript and Java. Passionate about building clean, functional web applications and learning new technologies.
+
+Currently exploring Python, GSAP, and MCP to enhance my frontend and backend skills.
 
 </p>
 
