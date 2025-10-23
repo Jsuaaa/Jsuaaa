@@ -12,7 +12,6 @@
 # About me
 
 <p>
- <img align="right" width="350" src="https://raw.githubusercontent.com/02loveslollipop/02loveslollipop/main/assets/programmer.gif" alt="Coding gif" />
   
 I’m a 20-year-old Systems Engineering student and Fullstack Developer experienced in JavaScript and Java. Passionate about building clean, functional web applications and learning new technologies.
 
