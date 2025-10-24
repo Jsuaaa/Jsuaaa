@@ -69,7 +69,6 @@ Currently exploring Python, GSAP, and MCP to enhance my frontend and backend ski
 
 <br/>
 <hr/>
-<br/>
 
 <p align="center">
   <a href="https://github.com/Jsuaaa">
