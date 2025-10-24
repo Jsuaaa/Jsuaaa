@@ -23,6 +23,8 @@ Currently exploring Python, GSAP, and MCP to enhance my frontend and backend ski
 
 ## Use To Code
 
+<br/>
+
 <p align="center"> 
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
