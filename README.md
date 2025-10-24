@@ -67,7 +67,6 @@ Currently exploring Python, GSAP, and MCP to enhance my frontend and backend ski
   </a> 
 </p>
 
-<br/>
 <hr/>
 
 <p align="center">
